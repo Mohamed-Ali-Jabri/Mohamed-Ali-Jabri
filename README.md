@@ -119,8 +119,17 @@ Traitement distribué des statistiques de la Premier League 2023-2024 sur cluste
 [![NVIDIA DL Certificate](https://img.shields.io/badge/NVIDIA-Fundamentals_of_Deep_Learning-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://learn.nvidia.com/certificates?id=C19AP2otTw28jUR6TfumSQ)
 
 
-### NVIDIA – Applications of AI for Anomaly Detection
-[![NVIDIA DL Certificate](https://learn.nvidia.com/certificates?id=Gw3qmVCzQ-SuYT6iBcPRxw)
+### 🔷 NVIDIA – Applications of AI for Anomaly Detection
+[![NVIDIA AI Anomaly Detection Certificate](https://img.shields.io/badge/NVIDIA-Applications_of_AI_for_Anomaly_Detection-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://learn.nvidia.com/certificates?id=Gw3qmVCzQ-SuYT6iBcPRxw)
+
+**Délivré à :** Jabri Mohamed Ali  
+**Certification ID :** `Gw3qmVCzQ-SuYT6iBcPRxw`  
+**Date d’émission :** 4 avril 2026  
+**Compétences :** Applications de l’IA pour la détection d’anomalies  
+
+📄 [Voir / Télécharger le certificat](https://learn.nvidia.com/certificates?id=Gw3qmVCzQ-SuYT6iBcPRxw) | 🔗 [Ajouter à mon profil NVIDIA](#)
+
+> Cette certification atteste la **compétence démontrée dans le programme “Applications of AI for Anomaly Detection”** du NVIDIA Deep Learning Institute, encadré par Howard Wright, Vice President de NVIDIA.
 
 ---
 
