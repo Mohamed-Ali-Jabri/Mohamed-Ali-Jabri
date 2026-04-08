@@ -119,8 +119,8 @@ Traitement distribué des statistiques de la Premier League 2023-2024 sur cluste
 [![NVIDIA DL Certificate](https://img.shields.io/badge/NVIDIA-Fundamentals_of_Deep_Learning-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://learn.nvidia.com/certificates?id=C19AP2otTw28jUR6TfumSQ)
 
 
-### NVIDIA – Fundamentals of Deep Learning
-[![NVIDIA DL Certificate](https://img.shields.io/badge/NVIDIA-Fundamentals_of_Deep_Learning-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://www.nvidia.com/deep-learning-institute/)
+### NVIDIA – Applications of AI for Anomaly Detection
+[![NVIDIA DL Certificate](https://img.shields.io/badge/NVIDIA-Applications_of_AI_for_Anomaly_Detection-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://www.nvidia.com/deep-learning-institute/)
 
 ---
 
