@@ -118,8 +118,9 @@ Traitement distribué des statistiques de la Premier League 2023-2024 sur cluste
 ### 🔷 NVIDIA – Fundamentals of Deep Learning
 [![NVIDIA DL Certificate](https://img.shields.io/badge/NVIDIA-Fundamentals_of_Deep_Learning-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://learn.nvidia.com/certificates?id=C19AP2otTw28jUR6TfumSQ)
 
-**Délivré le :** 28 février 2026 | **ID :** `C19AP2otTw28jUR6TfumSQ`  
-**Compétences :** CNN | RNN | Transfer Learning | Data Augmentation | Optimisation de modèles
+
+### NVIDIA – Fundamentals of Deep Learning
+[![NVIDIA DL Certificate](https://img.shields.io/badge/NVIDIA-Fundamentals_of_Deep_Learning-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://www.nvidia.com/deep-learning-institute/)
 
 ---
 
