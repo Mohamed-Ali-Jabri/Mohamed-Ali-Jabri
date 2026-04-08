@@ -120,7 +120,7 @@ Traitement distribué des statistiques de la Premier League 2023-2024 sur cluste
 
 
 ### NVIDIA – Applications of AI for Anomaly Detection
-[![NVIDIA DL Certificate](https://img.shields.io/badge/NVIDIA-Applications_of_AI_for_Anomaly_Detection-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://www.nvidia.com/deep-learning-institute/)
+[![NVIDIA DL Certificate](https://learn.nvidia.com/certificates?id=Gw3qmVCzQ-SuYT6iBcPRxw)
 
 ---
 
