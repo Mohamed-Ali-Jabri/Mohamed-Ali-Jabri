@@ -187,7 +187,7 @@ Traitement distribué des statistiques de la Premier League 2023-2024 sur cluste
   <a href="mailto:moh.ali.jabri@gmail.com">
     <img src="https://img.shields.io/badge/Email-moh.ali.jabri@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/MohamedAli-Jabri">
+  <a href="https://github.com/Mohamed-Ali-Jabri">
     <img src="https://img.shields.io/badge/GitHub-MohamedAli--Jabri-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
