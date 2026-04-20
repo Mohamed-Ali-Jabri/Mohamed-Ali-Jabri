@@ -9,7 +9,7 @@ Passionné par **l'analyse de données, le Machine Learning (ML), le Deep Learni
 
 ---
 
-
+<!--
 
 ## 🏆 Projets
 
@@ -112,7 +112,7 @@ Traitement distribué des statistiques de la Premier League 2023-2024 sur cluste
 [![Dataset](https://img.shields.io/badge/Dataset-CSV-green?style=flat-square)](https://github.com/MohamedAli-Jabri/Premier-League-Player-Performance-Analysis-Hadoop-MapReduce/blob/main/Dataset/premier-player-23-24.csv)
 
 ---
-
+-->
 ## 📜 Certifications
 
 ### 🔷 NVIDIA – Fundamentals of Deep Learning
