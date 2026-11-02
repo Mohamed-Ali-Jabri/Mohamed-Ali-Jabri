@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
 <h1 align="center">Hi 👋, I'm Mohamed Ali Jabri</h1>
-<h3 align="center">Data Science Engineering Student | AI Agents & Machine Learning Enthusiast from Tunisia 🇹🇳</h3>
+<h3 align="center">Data Science Engineering Student | Business Intelligence Graduate Enthusiast from Tunisia 🇹🇳</h3>
 
 <p align="center">
   <a href="https://github.com/Mohamed-Ali-Jabri" target="_blank">
