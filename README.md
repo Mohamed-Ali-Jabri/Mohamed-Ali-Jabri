@@ -94,7 +94,7 @@
 <img src="https://cdn.simpleicons.org/duckdb/FFF000" alt="DuckDB" width="40" height="40"/>
 </a>
 <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
 </a>
 
 <!-- MLOps / DevOps / Automation -->
