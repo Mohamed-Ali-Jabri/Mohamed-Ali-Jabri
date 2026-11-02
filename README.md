@@ -4,10 +4,7 @@
 <h3 align="center">Data Science Engineering Student | Business Intelligence Graduate Enthusiast from Tunisia 🇹🇳</h3>
 
 <p align="center">
-  <a href="https://github.com/Mohamed-Ali-Jabri" target="_blank">
-    🌐 My GitHub
-  </a>
-  &nbsp; | &nbsp;
+
   <a href="https://www.linkedin.com/in/jabri-mohamed-ali-294577381/" target="_blank">
     💼 LinkedIn
   </a>
