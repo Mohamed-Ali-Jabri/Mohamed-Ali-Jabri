@@ -77,7 +77,7 @@
 <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Google Gemini" width="40" height="40"/>
 </a>
 <a href="https://groq.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/groq/F55036" alt="Groq" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/groq.svg" alt="Groq" width="40" height="40"/>
 </a>
 
 <!-- Data Science / Data Engineering -->
