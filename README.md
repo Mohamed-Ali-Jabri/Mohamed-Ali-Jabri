@@ -17,21 +17,18 @@
 
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
-- 🎓 Engineering student in **Data Science at ESPRIT**, Tunisia.
-- 🤖 Interested in **Agentic AI, AI Agents, Multi-Agent Systems and Generative AI**.
+
 - 🌱 Currently exploring **LLMs, RAG, LangGraph and AI Agent architectures**.
+
 - 🔭 Working on intelligent AI solutions combining Machine Learning, Data Engineering and Generative AI.
-- 💼 Looking for a **6-month End-of-Studies Internship (PFE)** in AI / Agentic AI.
+
 - 📫 Reach me at **moh.ali.jabri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jabri-mohamed-ali-294577381/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://github.com/Mohamed-Ali-Jabri" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
-</a>
+
 <a href="mailto:moh.ali.jabri@gmail.com">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
 </a>
