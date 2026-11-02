@@ -1,194 +1,172 @@
-# 👋 Bonjour ! Je suis Mohamed Ali Jabri
+![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
-Bienvenue sur mon GitHub !  
-Je suis **étudiant en cycle d'ingénieur**, spécialisation **Data Science** à **ESPRIT**, avec une **Licence en Business Computing – Business Intelligence**.
-
-Passionné par **l'analyse de données, le Machine Learning (ML), le Deep Learning (DL)** et la **Business Intelligence**, j'aime transformer les données en solutions intelligentes et décisions stratégiques.
-
-📍 **Actuellement basé en Tunisie** | Disponible pour des projets et collaborations en **ML, DL, Data Science et BI**
-
----
-
-<!--
-
-## 🏆 Projets
-
-### 1. 📊 Customer Churn Prediction – Banque Zitouna (PFE Complet)
-![PFE](https://img.shields.io/badge/Project-PFE-gold?style=flat-square)
-![Complete](https://img.shields.io/badge/Status-Complete-green?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-**Stack :** Python | SQL Server | Power BI | React.js | SSIS | ETL | Data Warehouse  
-**Résultats :** Pipeline BI + ML complet | Dashboards interactifs | 6 modèles prédictifs comparés
-
-**Description :**  
-Projet de fin d'études réalisé à **Banque Zitouna**. Solution end-to-end couvrant :
-- ✅ **ETL & Data Warehouse** : Intégration depuis CSV/JSON/TEXT via SSIS
-- ✅ **Business Intelligence** : Dashboards Power BI (KPIs, taux de churn, analyse par produit/agence)
-- ✅ **Machine Learning** : 6 modèles testés (Régression Logistique, KNN, Random Forest, SVM, Naive Bayes, Gradient Boosting)
-- ✅ **Déploiement Web** : Application React.js avec Power BI Embedded
-
-**Impact :** Permettre à la banque d'anticiper le churn et mettre en place des stratégies de fidélisation proactives.
-
-> 🖼️ *Captures d'écran et démo disponibles dans le README du repo*
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Voir_le_repo-181717?style=flat-square&logo=github)](https://github.com/MohamedAli-Jabri/customer-churn-prediction-pfe)
-[![README](https://img.shields.io/badge/Détails-README-blue?style=flat-square)](https://github.com/MohamedAli-Jabri/customer-churn-prediction-pfe/blob/main/README.md)
-
----
-
-### 2. 🤖 Customer Churn Prediction – Pipeline MLOps Moderne
-![MLOps](https://img.shields.io/badge/MLOps-Complete-brightgreen?style=flat-square)
-![Production](https://img.shields.io/badge/Deployment-Ready-green?style=flat-square)
-![XGBoost](https://img.shields.io/badge/XGBoost-2C5AA0?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Stack :** Python | XGBoost | FastAPI | Streamlit | MLflow | Docker  
-**Résultats :** Accuracy **87%** | AUC **0.92** | Precision **0.89**
-
-**Description :**  
-Pipeline MLOps complet pour la prédiction du churn client en production :
-- ✅ **Data Preprocessing** : Feature engineering, gestion du déséquilibre de classes (SMOTE)
-- ✅ **Modélisation** : XGBoost avec hyperparameter tuning (Optuna)
-- ✅ **Automatisation** : Makefile avec pipeline complet en une seule commande
-- ✅ **Tracking** : MLflow pour le versioning et la comparaison des modèles
-- ✅ **API REST** : FastAPI pour servir les prédictions en temps réel
-- ✅ **UI** : Dashboard Streamlit interactif avec SHAP explainability
-- ✅ **Déploiement** : Containerisation Docker, prêt pour production
-
-**Architecture :**
-```
-Data → Preprocessing → Model Training → MLflow Tracking → FastAPI → Streamlit UI → Docker +(Automatisation : Makefile)
-```
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Voir_le_repo-181717?style=flat-square&logo=github)](https://github.com/MohamedAli-Jabri/Customer-churn-prediction-mlops)
-[![README](https://img.shields.io/badge/Détails-README-blue?style=flat-square)](https://github.com/MohamedAli-Jabri/Customer-churn-prediction-mlops/blob/main/README.md)
-
----
-
-### 3. 🏃 Health & Fitness Estimation – Analyse Statistique Avancée
-![R](https://img.shields.io/badge/Language-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Statistics](https://img.shields.io/badge/Method-Regression-lightblue?style=flat-square)
-![Academic](https://img.shields.io/badge/Type-Academic-purple?style=flat-square)
-
-**Stack :** R | RMarkdown | Analyse Statistique | Régression Linéaire Multiple  
-**Dataset :** 2 000 participants | 34 variables  
-**Résultats :** R² Force de préhension : **61%** | R² VO₂ max : **31%**
-
-**Description :**  
-Analyse physiologique visant à modéliser la condition physique à partir de variables simples mesurables :
-- ✅ **Exploration & Corrélations** : Histogrammes, heatmaps, boxplots
-- ✅ **Tests d'hypothèses** : Shapiro-Wilk, ANOVA, Test de Bartlett, Bootstrap
-- ✅ **Modélisation** : 2 modèles de régression linéaire multiple (sélection stepwise/AIC)
-- ✅ **Variables cibles** : Force de préhension, VO₂ max estimée
-
-**Application :** Dépistage de masse rapide et économique de la condition physique sans équipement médical coûteux.
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Voir_le_repo-181717?style=flat-square&logo=github)](https://github.com/MohamedAli-Jabri/Health-fitness-estimation)
-[![README](https://img.shields.io/badge/Détails-README-blue?style=flat-square)](https://github.com/MohamedAli-Jabri/Health-fitness-estimation/blob/main/README.md)
-
----
-
-### 4. ⚽ Premier League Player Performance Analysis – Hadoop MapReduce
-![BigData](https://img.shields.io/badge/BigData-Hadoop-FCC624?style=flat-square&logo=apache&logoColor=black)
-![MapReduce](https://img.shields.io/badge/Framework-MapReduce-E25A1C?style=flat-square)
-![Java](https://img.shields.io/badge/Language-Java-007396?style=flat-square&logo=java&logoColor=white)
-
-**Stack :** Java | Apache Hadoop | HDFS | MapReduce | Docker  
-**Dataset :** 580 joueurs | 20 clubs | Premier League 2023-2024  
-**Résultats :** Analyse distribuée des performances par équipe à grande échelle
-
-**Description :**  
-Traitement distribué des statistiques de la Premier League 2023-2024 sur cluster Hadoop :
-- ✅ **MapReduce Job** : Agrégation des stats par équipe (buts, passes décisives, ratio goals/90)
-- ✅ **Architecture** : Classe `Writable` personnalisée pour la sérialisation des objets Java
-- ✅ **Scalabilité** : Traitement sur cluster Hadoop + containerisation Docker
-- ✅ **Sorties** : Stats agrégées par club (Arsenal, Liverpool, Manchester City, etc.)
-
-**Métriques générées :** Buts totaux | Passes décisives | Goals/90 min | Nombre de joueurs par club
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Voir_le_repo-181717?style=flat-square&logo=github)](https://github.com/MohamedAli-Jabri/Premier-League-Player-Performance-Analysis-Hadoop-MapReduce)
-[![Dataset](https://img.shields.io/badge/Dataset-CSV-green?style=flat-square)](https://github.com/MohamedAli-Jabri/Premier-League-Player-Performance-Analysis-Hadoop-MapReduce/blob/main/Dataset/premier-player-23-24.csv)
-
----
--->
-## 📜 Certifications
-
-### 🔷 NVIDIA – Fundamentals of Deep Learning
-[![NVIDIA DL Certificate](https://img.shields.io/badge/NVIDIA-Fundamentals_of_Deep_Learning-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://learn.nvidia.com/certificates?id=C19AP2otTw28jUR6TfumSQ)
-
-
-### 🔷 NVIDIA – Applications of AI for Anomaly Detection
-[![NVIDIA AI Anomaly Detection Certificate](https://img.shields.io/badge/NVIDIA-Applications_of_AI_for_Anomaly_Detection-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://learn.nvidia.com/certificates?id=Gw3qmVCzQ-SuYT6iBcPRxw)
-
-
----
-
-## 💻 Compétences & Technologies
-
-### 🔤 Langages de programmation
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-### 📊 Data Science & Visualisation
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-
-### 🤖 Machine Learning & Deep Learning
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-2C5AA0?style=flat-square)
-
-### 🛠️ MLOps & DevOps
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-### 🔧 Big Data & Systèmes distribués
-![Hadoop](https://img.shields.io/badge/-Hadoop-FCC624?style=flat-square&logo=apache&logoColor=black)
-![SSIS](https://img.shields.io/badge/-SSIS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-### 💾 Backend & Bases de données
-![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### 📱 Frontend & Mobile
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
----
-
-## 🎓 Formation
-
-| Diplôme | Établissement | Spécialité | Statut |
-|---|---|---|---|
-| Cycle d'ingénieur |  École Supérieure Privée d'Ingénierie et de Technologie | Data Science | En cours |
-| Licence | École Supérieure de l'Économie Numérique | Licence en Business Computing en Business Intelligence | Obtenue |
-
----
-
-
-## 🔗 Contact
+<h1 align="center">Hi 👋, I'm Mohamed Ali Jabri</h1>
+<h3 align="center">Data Science Engineering Student | AI Agents & Machine Learning Enthusiast from Tunisia 🇹🇳</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jabri-mohamed-ali-294577381/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Ali_Jabri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://github.com/Mohamed-Ali-Jabri" target="_blank">
+    🌐 My GitHub
   </a>
-  <a href="mailto:moh.ali.jabri@gmail.com">
-    <img src="https://img.shields.io/badge/Email-moh.ali.jabri@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Mohamed-Ali-Jabri">
-    <img src="https://img.shields.io/badge/GitHub-MohamedAli--Jabri-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  &nbsp; | &nbsp;
+  <a href="https://www.linkedin.com/in/jabri-mohamed-ali-294577381/" target="_blank">
+    💼 LinkedIn
   </a>
 </p>
 
+<br>
+
+<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+
+- 🎓 Engineering student in **Data Science at ESPRIT**, Tunisia.
+- 🤖 Interested in **Agentic AI, AI Agents, Multi-Agent Systems and Generative AI**.
+- 🌱 Currently exploring **LLMs, RAG, LangGraph and AI Agent architectures**.
+- 🔭 Working on intelligent AI solutions combining Machine Learning, Data Engineering and Generative AI.
+- 💼 Looking for a **6-month End-of-Studies Internship (PFE)** in AI / Agentic AI.
+- 📫 Reach me at **moh.ali.jabri@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/jabri-mohamed-ali-294577381/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://github.com/Mohamed-Ali-Jabri" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
+</a>
+<a href="mailto:moh.ali.jabri@gmail.com">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
+</a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+
+<!-- Programming Languages -->
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+</a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+</a>
+
+<!-- Machine Learning / Deep Learning -->
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
+</a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+</a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+</a>
+<a href="https://keras.io/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
+</a>
+
+<!-- Generative AI / AI Agents -->
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="40" height="40"/>
+</a>
+<a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/langgraph/1C3C3C" alt="LangGraph" width="40" height="40"/>
+</a>
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" width="40" height="40"/>
+</a>
+<a href="https://ai.google.dev/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Google Gemini" width="40" height="40"/>
+</a>
+<a href="https://groq.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/groq/F55036" alt="Groq" width="40" height="40"/>
+</a>
+
+<!-- Data Science / Data Engineering -->
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="Apache Spark" width="40" height="40"/>
+</a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="40" height="40"/>
+</a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" width="40" height="40"/>
+</a>
+<a href="https://duckdb.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/duckdb/FFF000" alt="DuckDB" width="40" height="40"/>
+</a>
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="40" height="40"/>
+</a>
+
+<!-- MLOps / DevOps / Automation -->
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+</a>
+<a href="https://mlflow.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="MLflow" width="40" height="40"/>
+</a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" width="40" height="40"/>
+</a>
+<a href="https://n8n.io/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</a>
+
+<!-- Databases -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
+</a>
+
+<!-- Web Development -->
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+</a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+</a>
+</p>
+
+<h3 align="left">Featured Projects:</h3>
+
+- 🤖 **BIFlow:** Multi-agent BI automation platform using LangGraph, LLMs and DuckDB.
+- ☀️ **HelioCast AI:** Photovoltaic production forecasting system for 6 STEG power plants using LightGBM.
+- 🚨 **Crisis Copilot:** AI-assisted humanitarian monitoring with RAG, Gemini Vision and n8n.
+- 🏠 **Value:** Multimodal AI platform for real estate valuation using Computer Vision, NLP and Machine Learning.
+
+<h3 align="left">Certifications:</h3>
+
+- ☁️ AWS Academy Graduate – Cloud Foundations
+- 🧠 NVIDIA – Transformer-Based NLP Applications
+- 🧠 NVIDIA – Fundamentals of Deep Learning
+- 🧠 NVIDIA – AI for Anomaly Detection
+
+<details open>
+  <summary><b>GitHub Stats:</b></summary>
+  <br>
+
+  <p align="center">
+    <img width="100%" src="https://github-readme-streak-stats-mbm.vercel.app/?user=Mohamed-Ali-Jabri&hide_border=true&theme=transparent" alt="GitHub Streak Stats"/>
+  </p>
+
+  <p align="center">
+    <img width="60%" src="https://github-readme-stats-mbm.vercel.app/api?username=Mohamed-Ali-Jabri&show_icons=true&count_private=true&theme=transparent&hide_border=true&rank_icon=percentile" alt="GitHub Stats"/>
+    <img width="39%" src="https://github-readme-stats-mbm.vercel.app/api/top-langs/?username=Mohamed-Ali-Jabri&layout=compact&langs_count=10&theme=transparent&hide_border=true" alt="Top Languages"/>
+  </p>
+</details>
