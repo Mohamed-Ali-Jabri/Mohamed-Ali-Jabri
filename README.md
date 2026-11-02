@@ -140,19 +140,6 @@
 </a>
 </p>
 
-<h3 align="left">Featured Projects:</h3>
-
-- 🤖 **BIFlow:** Multi-agent BI automation platform using LangGraph, LLMs and DuckDB.
-- ☀️ **HelioCast AI:** Photovoltaic production forecasting system for 6 STEG power plants using LightGBM.
-- 🚨 **Crisis Copilot:** AI-assisted humanitarian monitoring with RAG, Gemini Vision and n8n.
-- 🏠 **Value:** Multimodal AI platform for real estate valuation using Computer Vision, NLP and Machine Learning.
-
-<h3 align="left">Certifications:</h3>
-
-- ☁️ AWS Academy Graduate – Cloud Foundations
-- 🧠 NVIDIA – Transformer-Based NLP Applications
-- 🧠 NVIDIA – Fundamentals of Deep Learning
-- 🧠 NVIDIA – AI for Anomaly Detection
 
 <details open>
   <summary><b>GitHub Stats:</b></summary>
